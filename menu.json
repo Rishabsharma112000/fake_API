@@ -1,0 +1,6 @@
+{"menus" : [{"name" : "Add a task","url":"/add","action":"y"}
+            ,{"name" : "View a task","url":"/add","action":"y"}
+            ,{"name" : "Search task","url":"/add","action":"y"},
+            {"name" : "Delete task","url":"/add","action":"y"}
+            ]
+}
